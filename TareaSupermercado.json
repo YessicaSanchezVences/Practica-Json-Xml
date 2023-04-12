@@ -1,0 +1,159 @@
+{
+    "Supermercados": [ 
+    {
+        "Mercadona": [
+        {
+            "Nombre": "Mercadona", 
+            "Direccion": "Gran Via 4, Bajo, Valencia, Valencia", 
+            "Geolocalizacion": "41.40338, 2.17403",
+            "Seccion": [
+            {
+                "Area": "Charcuteria",
+                "Productos": [
+                {
+                    "NombreProducto": "Pechuga de Pollo", 
+                    "EnOferta": true, 
+                    "InicioOferta": "15/04/2023 9:00 a.m.",
+                    "FinOferta": "20/04/2023 9:30 p.m.",
+                    "ProductoCompraHabitual": true,
+                    "Unidades": 500, 
+                    "UnidadDeMedida": "gramos",  
+                    "Precio": 6.50, 
+                    "ArticuloComprado": true
+                },
+                {
+                    "NombreProducto": "Lomo de cerdo", 
+                    "EnOferta": false, 
+                    "InicioOferta": "00/00/0000 0:00 a.m.",
+                    "FinOferta": "00/00/0000 0:00 p.m.",
+                    "ProductoCompraHabitual": true,                   
+                    "Unidades": 250, 
+                    "UnidadDeMedida": "gramos",  
+                    "Precio": 3.85, 
+                    "ArticuloComprado": true
+                }
+                ]
+            },
+            {
+                "Area": "Fruteria",
+                "Productos": [ 
+                {
+                    "NombreProducto": "Pera", 
+                    "EnOferta": false, 
+                    "InicioOferta": "00/00/0000 0:00 a.m.",
+                    "FinOferta": "00/00/0000 0:00 p.m.",
+                    "ProductoCompraHabitual": false, 
+                    "Unidades": 8, 
+                    "UnidadDeMedida": "Kilo",  
+                    "Precio": 6.00, 
+                    "ArticuloComprado": true
+                },
+                {
+                    "NombreProducto": "Tomate pera", 
+                    "EnOferta": true, 
+                    "InicioOferta": "18/04/2023 9:00 a.m.",        
+                    "FinOferta": "30/04/2023 9:30 p.m.",
+                    "ProductoCompraHabitual": true,
+                    "Unidades": 5, 
+                    "UnidadDeMedida": "Kilo",  
+                    "Precio": 5.00, 
+                    "ArticuloComprado": true
+                },
+                {
+                    "NombreProducto": "Platano", 
+                    "EnOferta": true, 
+                    "InicioOferta": "10/04/2023 9:00 a.m.",
+                    "FinOferta": "25/04/2023 9:40 p.m.",
+                    "ProductoCompraHabitual": true,
+                    "Unidades": 1, 
+                    "UnidadDeMedida": "Kilo",  
+                    "Precio": 1.00, 
+                    "ArticuloComprado": false
+                }
+                ]
+            }
+            ]
+        }
+        ] 
+
+    },
+
+
+    {
+        "Consum": [
+        {   
+            "Nombre": "Consum",
+            "Direccion": "Gran Via 10, Bajo, Valencia, Valencia", 
+            "Geolocalizacion": "41.40338, 2.17403", 
+            "Seccion": [
+            {
+                "Area": "Panaderia",
+                "Productos": [
+                {
+                    "NombreProducto": "Pan Barra", 
+                    "EnOferta": true, 
+                    "InicioOferta": "15/04/2023 9:00 a.m.",
+                    "FinOferta": "20/04/2023 9:30 p.m.",
+                    "ProductoCompraHabitual": false,
+                    "Unidades": 1, 
+                    "UnidadDeMedida": "gramos",  
+                    "Precio": 1.00, 
+                    "ArticuloComprado": true
+                },
+                {
+                    "NombreProducto": "Magdalenas", 
+                    "EnOferta": false, 
+                    "InicioOferta": "00/00/0000 0:00 a.m.",
+                    "FinOferta": "00/00/0000 0:00 p.m.",
+                    "ProductoCompraHabitual": true,
+                    "Unidades": 8, 
+                    "UnidadDeMedida": "gramos",  
+                    "Precio": 1.80, 
+                    "ArticuloComprado": false
+                }
+                ]
+            },
+            {
+                "Area": "Congelados",
+                "Productos": [ 
+                {
+                    "NombreProducto": "Salteado de verduras", 
+                    "EnOferta": false, 
+                    "InicioOferta": "00/00/0000 0:00 a.m.",
+                    "FinOferta": "00/00/0000 0:00 p.m.",
+                    "ProductoCompraHabitual": false,
+                    "Unidades": 1, 
+                    "UnidadDeMedida": "gramos",  
+                    "Precio": 3.00, 
+                    "ArticuloComprado": true
+                },
+                {
+                    "NombreProducto": "Patatas fritas", 
+                    "EnOferta": false, 
+                    "InicioOferta": "00/00/0000 0:00 a.m.",
+                    "FinOferta": "00/00/0000 0:00 p.m.",
+                    "ProductoCompraHabitual": false,
+                    "Unidades": 1, 
+                    "UnidadDeMedida": "kilo",  
+                    "Precio": 3.00, 
+                    "ArticuloComprado": false
+                },
+                {
+                    "NombreProducto": "Pizza", 
+                    "EnOferta": true, 
+                    "InicioOferta": "10/04/2023 9:00 a.m.",
+                    "FinOferta": "25/04/2023 9:40 p.m.",
+                    "ProductoCompraHabitual": false,
+                    "Unidades": 1, 
+                    "UnidadDeMedida": "gramos",  
+                    "Precio": 4.00, 
+                    "ArticuloComprado": true
+                }
+                ]
+            }
+            ]     
+        }
+        ]
+    }
+]    
+}

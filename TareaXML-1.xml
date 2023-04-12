@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Supermercados>
+    <Mercadona>
+        <Nombre>Mercadona</Nombre>
+        <Direccion>Gran Via 4, Bajo, Valencia, Valencia</Direccion>
+        <Geolocalizacion>41.40338, 2.17403</Geolocalizacion>
+        <Seccion>
+        <Area>Charcuteria</Area>
+            <Productos>
+                <NombreProducto>Pechuga de Pollo</NombreProducto>
+                <EnOferta>true</EnOferta>
+                <InicioOferta>15/04/2023 9:00 a.m.</InicioOferta>
+                <FinOferta>20/04/2023 9:30 p.m.</FinOferta>
+                <ProductoCompraHabitual>true</ProductoCompraHabitual>
+                <Unidades>500</Unidades>
+                <UnidadDeMedida>gramos</UnidadDeMedida>
+                <Precio>6.5</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+            <Productos>
+                <NombreProducto>Lomo de cerdo</NombreProducto>
+                <EnOferta>false</EnOferta>
+                <InicioOferta>00/00/0000 0:00 a.m.</InicioOferta>
+                <FinOferta>00/00/0000 0:00 p.m.</FinOferta>
+                <ProductoCompraHabitual>true</ProductoCompraHabitual>
+                <Unidades>250</Unidades>
+                <UnidadDeMedida>gramos</UnidadDeMedida>
+                <Precio>3.85</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+        </Seccion>
+
+        <Seccion>
+        <Area>Fruteria</Area>
+            <Productos>
+                <NombreProducto>Pera</NombreProducto>
+                <EnOferta>false</EnOferta>
+                <InicioOferta>00/00/0000 0:00 a.m.</InicioOferta>
+                <FinOferta>00/00/0000 0:00 p.m.</FinOferta>
+                <ProductoCompraHabitual>false</ProductoCompraHabitual>
+                <Unidades>8</Unidades>
+                <UnidadDeMedida>Kilo</UnidadDeMedida>
+                <Precio>6</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+            <Productos>
+                <NombreProducto>Tomate pera</NombreProducto>
+                <EnOferta>true</EnOferta>
+                <InicioOferta>18/04/2023 9:00 a.m.</InicioOferta>
+                <FinOferta>30/04/2023 9:30 p.m.</FinOferta>
+                <ProductoCompraHabitual>true</ProductoCompraHabitual>
+                <Unidades>5</Unidades>
+                <UnidadDeMedida>Kilo</UnidadDeMedida>
+                <Precio>5</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+            <Productos>
+                <NombreProducto>Platano</NombreProducto>
+                <EnOferta>true</EnOferta>
+                <InicioOferta>10/04/2023 9:00 a.m.</InicioOferta>
+                <FinOferta>25/04/2023 9:40 p.m.</FinOferta>
+                <ProductoCompraHabitual>true</ProductoCompraHabitual>
+                <Unidades>1</Unidades>
+                <UnidadDeMedida>Kilo</UnidadDeMedida>
+                <Precio>1</Precio>
+                <ArticuloComprado>false</ArticuloComprado>
+            </Productos>
+        </Seccion>
+    </Mercadona>
+
+
+    <Consum>
+        <Nombre>Consum</Nombre>
+        <Direccion>Gran Via 10, Bajo, Valencia, Valencia</Direccion>
+        <Geolocalizacion>41.40338, 2.17403</Geolocalizacion>
+        <Seccion>
+        <Area>Panaderia</Area>
+            <Productos>
+                <NombreProducto>Pan Barra</NombreProducto>
+                <EnOferta>true</EnOferta>
+                <InicioOferta>15/04/2023 9:00 a.m.</InicioOferta>
+                <FinOferta>20/04/2023 9:30 p.m.</FinOferta>
+                <ProductoCompraHabitual>false</ProductoCompraHabitual>
+                <Unidades>1</Unidades>
+                <UnidadDeMedida>gramos</UnidadDeMedida>
+                <Precio>1</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+            <Productos>
+                <NombreProducto>Magdalenas</NombreProducto>
+                <EnOferta>false</EnOferta>
+                <InicioOferta>00/00/0000 0:00 a.m.</InicioOferta>
+                <FinOferta>00/00/0000 0:00 p.m.</FinOferta>
+                <ProductoCompraHabitual>true</ProductoCompraHabitual>
+                <Unidades>8</Unidades>
+                <UnidadDeMedida>gramos</UnidadDeMedida>
+                <Precio>1.8</Precio>
+                <ArticuloComprado>false</ArticuloComprado>
+            </Productos>
+        </Seccion>
+
+        <Seccion>
+        <Area>Congelados</Area>
+            <Productos>
+                <NombreProducto>Salteado de verduras</NombreProducto>
+                <EnOferta>false</EnOferta>
+                <InicioOferta>00/00/0000 0:00 a.m.</InicioOferta>
+                <FinOferta>00/00/0000 0:00 p.m.</FinOferta>
+                <ProductoCompraHabitual>false</ProductoCompraHabitual>
+                <Unidades>1</Unidades>
+                <UnidadDeMedida>gramos</UnidadDeMedida>
+                <Precio>3</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+            <Productos>
+                <NombreProducto>Patatas fritas</NombreProducto>
+                <EnOferta>false</EnOferta>
+                <InicioOferta>00/00/0000 0:00 a.m.</InicioOferta>
+                <FinOferta>00/00/0000 0:00 p.m.</FinOferta>
+                <ProductoCompraHabitual>false</ProductoCompraHabitual>
+                <Unidades>1</Unidades>
+                <UnidadDeMedida>kilo</UnidadDeMedida>
+                <Precio>3</Precio>
+                <ArticuloComprado>false</ArticuloComprado>
+            </Productos>
+            <Productos>
+                <NombreProducto>Pizza</NombreProducto>
+                <EnOferta>true</EnOferta>
+                <InicioOferta>10/04/2023 9:00 a.m.</InicioOferta>
+                <FinOferta>25/04/2023 9:40 p.m.</FinOferta>
+                <ProductoCompraHabitual>false</ProductoCompraHabitual>
+                <Unidades>1</Unidades>
+                <UnidadDeMedida>gramos</UnidadDeMedida>
+                <Precio>4</Precio>
+                <ArticuloComprado>true</ArticuloComprado>
+            </Productos>
+        </Seccion>
+    </Consum>
+</Supermercados>
